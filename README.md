@@ -1,1 +1,2 @@
-# pro-24-sanjivni
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
